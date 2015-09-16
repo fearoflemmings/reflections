@@ -1,3 +1,21 @@
 How did viewing a diff between two versions of a file help you to see the bug that was introduced?
 
 Makes it quicker and easier to just see the changes in the two files, vs. having to search the whole file.
+
+How could having easy access to the entire history of a file make you more efficient programmer in the long term?
+
+Correct mistakes in changes onver time.
+
+What do you think are the pros and cons of manually chosing when to create a commit, like you do in Git vs. having version automatically saved, like Google Docs does?
+
+Not too small or too big to not lose any work, and not make it hard to look through meaningles differences.
+
+Git allows changes to multiple files because code is highly dependent on multiple files working together.
+
+git log is used to view the overall file hisotry and git diff to just view particular commits.
+
+Version makes it easier to make changes that might break something because you always know you can 'roll back.'
+
+I'll use Git for FileMaker scripts. Hopefully.
+
+
