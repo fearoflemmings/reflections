@@ -21,3 +21,4 @@ Two branches become one and differences in each are merged. The diagram shows th
 The Pro to Git's auto merging is to save time with simple changes vs. always doing it manually.
 
 
+
