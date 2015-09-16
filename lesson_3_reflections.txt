@@ -1,6 +1,7 @@
 Udacity Git and Git Hub Reflections for Lesson 3
 
-
+When would you want to keep a remote repository rather than keeping all of your work local?
+Maybe when working away from home and on another computer.
 
 
 
