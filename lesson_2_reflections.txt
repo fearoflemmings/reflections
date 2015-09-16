@@ -1,5 +1,23 @@
+Commands:
+
+
+
 What happens when you initialize a repository? Why do you need to do it?
 
 Because before it is just a directory. There's no .git directory.
+
+
+The staging area allows just some of the files from the working area to be added in logical groups.
+
+Staging area allows to plan commits in logical groups.
+
+Brnaches can keep track of big changes in the whole structure of the project.
+
+Diagrams help understand the branch nature of commits and branches and any dead ends that may exhist.
+
+
+Two branches become one and differences in each are merged. The diagram shows the structure of the two branches before and the one after along with names.
+
+The Pro to Git's auto merging is to save time with simple changes vs. always doing it manually.
 
 
